@@ -11,7 +11,8 @@ Viết câu lệnh `SELECT` kết hợp `JOIN` 3 bảng `courses`, `enrollments`
 ---
 
 ## 💻 Mã nguồn
-* Script khởi tạo DDL, DML và truy vấn SQL: [`query.sql`](./query.sql)
+* Script khởi tạo DDL, DML: [`bai1.sql`](./bai1.sql)
+
 
 ---
 
@@ -19,4 +20,4 @@ Viết câu lệnh `SELECT` kết hợp `JOIN` 3 bảng `courses`, `enrollments`
 
 Bảng kết quả hiển thị danh sách khóa học kèm theo số liệu thống kê chính xác, sắp xếp giảm dần theo điểm trung bình:
 
-![Kết quả truy vấn SQL](watermarked_img_10218472177500919174.png)
+![Kết quả truy vấn SQL](./img/bai1.png)
